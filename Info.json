@@ -1,0 +1,7 @@
+﻿{
+	"Id": "DVTrackIDer",
+	"DisplayName": "Track ID Finder",
+	"Author": "clrd4t0",
+	"Version": "0.0.1",
+	"EntryMethod": "DVTrackIDer.Main.Load",
+}
